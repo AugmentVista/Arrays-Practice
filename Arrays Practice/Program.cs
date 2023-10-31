@@ -4,14 +4,25 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Arrays");
-            Console.WriteLine("-----");
-
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.ReadKey(true);
-
 
         }
+
+        void Fire()
+        {
+
+        }
+        void Reload()
+        {
+
+        }
+        void ShowHUD()
+        {
+
+        }
+        string[] WeaponNames = new string[6];
+        float[] FireRate = new float[5];
+        string[] WeaponDamage = new string[4];
+        
+
     }
 }
